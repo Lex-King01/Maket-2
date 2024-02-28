@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'tt_lakes';
-    src: url('../maket-2/assest/fonts:TTLakes/TTLakes/TTLakes-Regular.woff') format('woff2'),
-        url('../maket-2/assest/fonts:TTLakes/TTLakes/TTLakes-Regular.ttf') format('ttf');
+    src: url('./assest/fonts:TTLakes/TTLakes/TTLakes-Regular.woff') format('woff2'),
+        url('./assest/fonts:TTLakes/TTLakes/TTLakes-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'tt_lakes';
-    src: url('../maket-2/assest/fonts:TTLakes/TTLakes/TTLakes-Bold.woff') format('woff2'),
-        url('../maket-2/assest/fonts:TTLakes/TTLakes/TTLakes-Bold.ttf') format('ttf');
+    src: url('./assest/fonts:TTLakes/TTLakes/TTLakes-Bold.woff') format('woff2'),
+        url('./assest/fonts:TTLakes/TTLakes/TTLakes-Bold.ttf') format('ttf');
     font-weight: bold;
     font-style: bold;
 }
